@@ -1,4 +1,4 @@
-Here’s a **ready-to-copy** `README.md` file for your **Petly** Expo app:
+ **Petly**
 
 ````markdown
 # Petly 🐾  
